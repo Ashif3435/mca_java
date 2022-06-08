@@ -45,7 +45,7 @@ class NumberEx
 		}
 		catch(negno n)
 		{
-			System.out.println("Exception Occured "+n);
+			System.out.println("Exception Occured ");
 		}
 	}
 }
